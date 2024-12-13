@@ -9,3 +9,5 @@ npm i @tabler/icons-react
     git branch nomeNovaBranch
     git checkout abc
     git commit -a -m 'made a change'
+    git branch -d NomeBrancheExcluirLocal
+    git push origin --delete NomeBrancheExcluirRemoto
