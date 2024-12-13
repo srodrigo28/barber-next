@@ -4,7 +4,7 @@
 npm i @tabler/icons-react
 ```
 
-#### Branch atualizando
+#### Branch main
     git branch --list
     git branch nomeNovaBranch
     git checkout abc
