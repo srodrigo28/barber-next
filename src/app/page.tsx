@@ -1,3 +1,4 @@
+import NossosClientes from "@/components/cliente/NossosClientes";
 import NossosProfissionais from "@/components/profissional/NossosProfissionais";
 import NossosServicos from "@/components/servico/NossosServicos";
 import Cabecalho from "@/components/shared/Cabecalho";
@@ -16,6 +17,7 @@ export default function Landing() {
       <div className="container md:py-10 md:pt-72">
         <NossosServicos />
         <NossosProfissionais />
+        <NossosClientes />
       </div>
     <Rodape />
     </div>
