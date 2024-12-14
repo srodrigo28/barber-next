@@ -5,4 +5,8 @@ export default interface Profissional{
     imagemURL: string
     avaliacao: number
     quantidadeAvaliacoes: number
+    instagram?: string
+    youtube?: string
+    linkedin?: string
+    whatsapp?: string
 }
